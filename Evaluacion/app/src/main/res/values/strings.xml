@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Evaluacion</string>
+    <string name="titulo">Creando Examen</string>
+    <string name="texto">Texto abajo</string>
+</resources>
